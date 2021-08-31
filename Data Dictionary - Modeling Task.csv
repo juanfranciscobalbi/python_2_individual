@@ -1,0 +1,15 @@
+﻿Column name;Description
+Reporting date;Last working day in month
+Account Number;Loan Identification Number
+Customer ID;Customer Identification Number in Credit Agricole
+Program Name;Name of program under car loans product
+Loan Open Date;Date of opening the loan
+Expected Close Date;The date at which the loan should be closed (end of tenor)
+Original Booked amount;Loan Amount that the customer takes
+Outstanding ;Remaining amount of the loan that is not paid yet at this reporting date
+Bucket;Number of unpaid installements at this reporting date
+Sex;Customer's gender as per the national ID
+Customer Open Date;Date of opening the relation with the customer (Can be before opening the loan)
+Birth date;Customer's birth date as per the national ID
+Profession;Customer's profession
+Car Type;Car Brand
